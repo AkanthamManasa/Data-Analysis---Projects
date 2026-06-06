@@ -23,6 +23,7 @@ applicants.
 ## Tools Used
 - SQL — data extraction and pattern analysis
 - Excel — pivot tables and visualisation
+- Power BI - 3 page report, DAX measures, drill through, bookmarks and slicers
 
 ## Key Findings
 
@@ -117,11 +118,21 @@ could improve financial inclusion.
 - loan_analysis.sql — all SQL analysis queries
 - loan_data.csv — dataset
 - loan_analysis.xlsx — pivot tables and charts
-- screenshots — all chart images
+- screenshots of Excel — all chart images
+- screenshots of Power BI - dashboard screenshots
+
+## Dashboard Screenshots
+### Page 1 - Overview Dashboard
+key metrics: 614 applications | 68.73% approval rate
+### page 2 - Education Analysis
+Graduate vs Not Graduate approval breakdown
+### page 3 - Property Area Drill-Through
+Detailed view per property area via drill-through
 
 ## Skills Demonstrated
 - SQL: SELECT, GROUP BY, HAVING, ORDER BY, COUNT, AVG,
   ROUND, Subqueries, CASE WHEN, Window Functions
 - Excel: Pivot Tables, PivotCharts, Data Analysis
+- Power BI: DAX measures, Drill through, Bookmarks and Slicers.
 - Analytics: Pattern recognition, Business recommendations,
   Data storytelling
